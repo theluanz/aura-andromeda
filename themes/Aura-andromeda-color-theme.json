@@ -53,7 +53,7 @@
         "sideBar.background": "#110f18",
         "sideBarSectionHeader.background": "#15141b",
         "sideBarTitle.foreground": "#a277ff",
-        "sideBar.foreground": "#bdbdbd",
+        "sideBar.foreground": "#bdbdbd",		
 
         "editorGroup.background": "#15141b",
         "editorGroup.dropBackground": "#495061d7",
@@ -87,7 +87,7 @@
         "editorBracketMatch.border": "#6d6d6d",
         "editorOverviewRuler.border": "#1B1D23",
         "editorError.foreground": "#c55858",
-        "editorWarning.foreground": "#ff6767",
+        "editorWarning.foreground": "#c7a06fd7",
         "editorGutter.modifiedBackground": "#6cb2c7ff",
         "editorGutter.addedBackground": "#54c59fBB",
         "editorGutter.deletedBackground": "#c55858BB",
@@ -273,7 +273,8 @@
                 "punctuation.section.embedded.end.ruby",
                 "punctuation.section.embedded.begin.php",
                 "punctuation.section.embedded.begin.ruby",
-                "punctuation.definition.template-expression"
+                "punctuation.definition.template-expression",
+                
             ],
             "settings": {
                 "foreground": "#ff6767"
@@ -288,7 +289,7 @@
                 "meta.image",
                 "markup.italic",
                 "source.js support.type",
-                "entity.name.tag"
+				"entity.name.tag"
             ],
             "settings": {
                 "foreground": "#a277ff"
