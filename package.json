@@ -2,7 +2,7 @@
     "name": "aura-andromeda",
     "displayName": "Andromeda Aura",
     "description": "Theme based in Aura Theme using Andromeda skeleton",
-    "version": "0.0.2",
+    "version": "0.0.21",
     "engines": {
         "vscode": "^1.66.0"
     },

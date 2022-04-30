@@ -10,6 +10,7 @@
 
         "button.background": "#61ffcacc",
         "button.hoverBackground": "#54c59fcc",
+        "button.foreground": "#00412b",
 
         "dropdown.background": "#2b303b",
         "dropdown.border": "#363c49",
@@ -69,7 +70,7 @@
         "editorCursor.foreground": "#FFF",
         "editor.selectionBackground": "#303541",
         "editor.selectionHighlightBackground": "#4F435580",
-        "editor.wordHighlightBackground": "#4F4355",
+        "editor.wordHighlightBackground": "#61ffca20",
         "editor.wordHighlightStrongBackground": "#a277ff80",
         "editor.findMatchBackground": "#c7a06fd7",
         "editor.findMatchHighlightBackground": "#54c59f77",
@@ -83,8 +84,8 @@
         "editorIndentGuide.activeBackground": "#585C66",
         "editorRuler.foreground": "#4F4355",
         "editorCodeLens.foreground": "#6d6d6d",
-        "editorBracketMatch.background": "#6d6d6d",
-        "editorBracketMatch.border": "#6d6d6d",
+        "editorBracketMatch.background": "#a277ff30",
+        "editorBracketMatch.border": "#a277ff30",
         "editorOverviewRuler.border": "#1B1D23",
         "editorError.foreground": "#c55858",
         "editorWarning.foreground": "#c7a06fd7",
