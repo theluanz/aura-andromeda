@@ -8,9 +8,9 @@
         "selection.background": "#6d6d6d",
         "errorForeground": "#c55858",
 
-        "button.background": "#61ffcacc",
-        "button.hoverBackground": "#54c59fcc",
-        "button.foreground": "#00412b",
+        "button.background": "#a277ffff",
+        "button.hoverBackground": "#a277ffee",
+        "button.foreground": "#170b2f",
 
         "dropdown.background": "#2b303b",
         "dropdown.border": "#363c49",
@@ -45,23 +45,25 @@
         "list.inactiveSelectionBackground": "#15141b",
         "list.inactiveSelectionForeground": "#61ffca",
 
-        "activityBar.background": "#15141b",
+        "activityBar.background": "#110f18",
+        "activityBar.border": "#1b1d23",
         "activityBar.dropBackground": "#3a404e",
         "activityBar.foreground": "#BAAFC0",
-        "activityBarBadge.background": "#82e2ff",
+        "activityBarBadge.background": "#a277ff",
         "activityBarBadge.foreground": "#15141b",
 
         "sideBar.background": "#110f18",
         "sideBarSectionHeader.background": "#15141b",
         "sideBarTitle.foreground": "#a277ff",
-        "sideBar.foreground": "#bdbdbd",		
+        "sideBar.foreground": "#bdbdbd",
+        "sideBar.border": "#1b1d23",		
 
         "editorGroup.background": "#15141b",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#15141b",
-        "tab.activeBackground": "#15141b",
+        "tab.activeBackground": "#110f18",
         "tab.inactiveBackground": "#1f2029",
-        "tab.activeForeground": "#61ffca",
+        "tab.activeForeground": "#a277ff",
         "tab.inactiveForeground": "#6d6d6d",
 
         "editor.background": "#15141b",
