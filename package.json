@@ -2,7 +2,9 @@
     "name": "aura-andromeda",
     "displayName": "Andromeda Aura",
     "description": "Theme based in Aura Theme using Andromeda skeleton",
-    "version": "0.0.23",
+    "publisher": "PoggersTech",
+    "version": "0.0.24",
+    "repository": "https://github.com/theluanz/aura-andromeda",
     "engines": {
         "vscode": "^1.66.0"
     },
